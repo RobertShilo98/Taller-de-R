@@ -1,0 +1,12 @@
+"ID_investigador" "Nombre" "Apellidos" "Edad" "Especialidad" "Correo"
+"1" 1599 "Mateo" "Guayando" 32 "Biología" "Biossdata@gmail.com"
+"2" 12456 "Vicente" "Diablos" 62 "AlbañilescuaGuarro" "Guarrin@gmail.com"
+"3" 46897 "Samanta" "Ricolina" 23 "Lenguas" "BadBunnyMiLove@gmail.com"
+"4" 64972 "Jairo" "Cortez" 51 "Comunicaciones" "Chairo1970@gmail.com"
+"5" 75984 "Ricardo" "Arjona" 34 "Matemáticas" "Mat@gmail.com"
+"6" NA NA NA NA NA NA
+"7" NA NA NA NA NA NA
+"8" NA NA NA NA NA NA
+"9" NA NA NA NA NA NA
+"10" NA NA NA NA NA NA
+"11" NA NA NA NA NA NA
